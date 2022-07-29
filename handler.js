@@ -41,15 +41,15 @@ module.exports = {
         global.kontak2 = [
         ['66855048169', 'Nan•น่าน', 'Pencipta Bot', 'aknokteto@gmail.com', true],
         ['6285785694474', 'Jaka•จากา', 'Partner', 'jkasmprn@gmail.com', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
-        ['79999029953', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true]
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
