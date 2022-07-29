@@ -340,9 +340,9 @@ ${pe}Note: Jika ada Fitur yg Error Lapor ke owner${pe}`,
     throw e
   }
 }
-handler.help = ['m', 'help', '?']
+handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(m|\?)$/i
+handler.command = /^(menu|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
