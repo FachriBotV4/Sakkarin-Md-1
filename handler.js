@@ -35,12 +35,11 @@ module.exports = {
         global.author = global.data.owner
         //global.author = 'The.sad.boy01'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' By Nan'
-        global.colong1 = 'Nan'
-        global.colong2 = 'By Nan'
+        global.wm = namabot + ' By Fchrz'
+        global.colong1 = 'Fchrz'
+        global.colong2 = 'By Fchrz'
         global.kontak2 = [
-        ['66855048169', 'Nan•น่าน', 'Pencipta Bot', 'aknokteto@gmail.com', true],
-        ['6285785694474', 'Jaka•จากา', 'Partner', 'jkasmprn@gmail.com', true],
+        ['66855048169', 'FchrzOfcོ', 'Pencipta Bot', 'saefulfachri18@gmail.com', true],
         ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
         ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
         ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
@@ -741,9 +740,9 @@ global.dfail = async (type, m, conn) => {
     let desl = deslink
     let gc = global.linkgc
     let msg = {
-        rowner: '*Eits Tydak bisa, Cuma Ayang Nan yg bisa:v*',
-        owner: '*Eits Tydak bisa, Cuma Ayang Nan yg bisa:v*',
-        mods: '*Eits Tydak bisa, Cuma Ayang Nan yg bisa:v*',
+        rowner: '*Eits Tydak bisa, Cuma Ayang Fchrz yg bisa:v*',
+        owner: '*Eits Tydak bisa, Cuma Ayang Fchrz yg bisa:v*',
+        mods: '*Eits Tydak bisa, Cuma Ayang Fchrz yg bisa:v*',
         premium: 'Beli premium dulu, murah kok !',
         group: 'Perintah ini hanya dapat digunakan di grup!',
         private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
