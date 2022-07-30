@@ -39,7 +39,7 @@ module.exports = {
         global.colong1 = 'Fchrz'
         global.colong2 = 'By Fchrz'
         global.kontak2 = [
-        ['66855048169', 'FchrzOfcོ', 'Pencipta Bot', 'saefulfachri18@gmail.com', true],
+        ['6285713041886', 'FchrzOfcོ', 'Pencipta Bot', 'saefulfachri18@gmail.com', true],
         ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
         ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
         ['6281335334848', 'Sakkarin-Md', 'Bot WhatsApp', 'Nothing!', true],
@@ -749,7 +749,7 @@ global.dfail = async (type, m, conn) => {
         admin: 'Lu Admin?!',
         botAdmin: 'Bot nya jadiin admin dulu lah!',
         unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Manusia.16*',
-        nsfw: 'NSFW tidak aktif, Silahkan hubungi Nan untuk mengaktifkan fitur ini!',
+        nsfw: 'NSFW tidak aktif, Silahkan hubungi Fchrz untuk mengaktifkan fitur ini!',
         rpg: 'RPG tidak aktif, Silahkan hubungi Nan untuk mengaktifkan fitur ini!',
         restrict: 'Fitur ini di *disable*!'
     /*}[type]
