@@ -4,8 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['66855048169', 'Nan•ที่รัก', true],
-['79999029953', 'Sakkarin-Md', true]
+['6285713041886', 'Fchrz', true],
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,23 +33,23 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = 'Sakkarin-Md By ©Nan'
-global.linkgc = 'https://chat.whatsapp.com/LX22xQnDb0yJijocPMYf2P'
-global.linkig = 'https://instagram.com/nan_sakrn?igshid=ZDc0MTNkNmI='
+global.WM = 'FachriBot-Md By ©Fchrz'
+global.linkgc = 'https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6'
+global.linkig = 'https://instagram.com/sfdesign_id'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@nan_sakrin'
+global.bodlink = '@sfdesign_id'
 
 global.wait = '_*Tunggu Sebentar*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
 global.dtu = 'Follow'
-global.urlnya = "https://www.instagram.com/nan_sakrin"
+global.urlnya = "https://www.instagram.com/sfdesign_id"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+66 85 504 8169'
+global.phn = '+6285713041886'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
